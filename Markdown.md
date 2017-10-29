@@ -32,7 +32,7 @@ The array of possible workflows can make it hard to know where to begin when imp
 
 ## How it works
 
-![image](C:\Users\My\Desktop\web\1.png)
+![image](https://raw.githubusercontent.com/lin233/Markdown/master/1.png)
 ### MANAGING BRANCHES
 
 > Initialize the central repository
@@ -49,7 +49,7 @@ The array of possible workflows can make it hard to know where to begin when imp
 >
 
 
-![image](C:\Users\My\Desktop\web\2.png)
+![image](https://raw.githubusercontent.com/lin233/Markdown/master/2.png)
 
 
 
